@@ -13,7 +13,7 @@ A web application for viewing Xero balance sheet reports, built with React and F
 1. Clone the repository:
 
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/ali-emad/balance-sheet-viewer.git
    cd balance-sheet-viewer
    ```
 
